@@ -1,0 +1,12 @@
+# Processing build and export output
+application.*
+build/
+out/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*~
